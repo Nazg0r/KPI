@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-const Port int = 8000
+const Port int = 8795
 
 type RequiredData struct {
 	Time string `json:"time"`
